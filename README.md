@@ -14,51 +14,29 @@ Skilled in **Python, SQL, PySpark, AWS, Azure, GCP, Power BI, and Tableau**, I f
 ---
 
 ## 🛠️ Skills
-
-### Programming & Querying  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-
-### Data Engineering & Cloud  
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-
-### BI & Visualization  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
-
-### Deployment & Tools  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+*(Insert the colorful skill badges here if you want)*
 
 ---
 
-## 📂 Projects
+## 🗂 Featured Projects
 
-### 🍴 [Restaurant Data Analysis](#)
-- Designed **Snowflake schema** for sales & reviews  
-- Optimized queries & built dashboards (Power BI, Tableau)  
+### 🔐 [RBAC Project](https://github.com/Harshaullikashi/RBAC-Project)  
+Role-Based Access Control system project demonstrating **user roles, authentication, and authorization workflows**.
 
-### 🏦 [Loan Approval Prediction](#)
-- Integrated REST API + CSV data into **AWS & Azure storage**  
-- Built **Flask API** for real-time predictions, deployed with Docker + CI/CD  
+### 🏦 [Loan Prediction API](https://github.com/Harshaullikashi/loan-prediction-api)  
+Developed a **Flask API** for loan eligibility prediction, containerized with **Docker**, and deployed with **CI/CD**.
 
-### 📈 [Stock Price Forecasting](#)
-- Automated ingestion from **Yahoo Finance API**  
-- Applied **ARIMA & Prophet** models  
-- Built dashboards for forecasts & volatility  
+### 📉 [Customer Churn Analysis](https://github.com/Harshaullikashi/Customer-Churn-Analysis)  
+Processed **5M+ customer records** using PySpark + SQL, engineered churn features, and built **BI dashboards**.
 
-### 📉 [Customer Churn Analysis](#)
-- Processed **5M+ records** using PySpark + SQL  
-- Engineered churn features, validated data, built BI dashboards  
+### 📊 [Sales Insights Dashboard](https://github.com/Harshaullikashi/Sales-Insights-Dashboard)  
+Created an interactive dashboard with **T-SQL queries** to visualize sales, profit, and marketing KPIs.
+
+### 🍽 [Restaurant Data Analysis (Jomato)](https://github.com/Harshaullikashi/RESTAURANT-DATA-ANALYSIS-PROJECT-JOMATO)  
+Designed **Snowflake schema** for restaurant data, optimized queries, and visualized trends in Power BI/Tableau.
+
+### 🛍 [Capstone (Retail Forecast)](https://github.com/Harshaullikashi/Capstone)  
+Built a **forecasting model** for retail demand using time-series analysis in Jupyter notebooks.
 
 ---
 
@@ -78,12 +56,13 @@ Skilled in **Python, SQL, PySpark, AWS, Azure, GCP, Power BI, and Tableau**, I f
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (All Projects)
 ![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshaullikashi&show_icons=true&theme=radical)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshaullikashi&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Harshaullikashi&theme=radical&hide_border=false)  
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=Harshaullikashi&label=Profile+Views&color=blue)
+
 

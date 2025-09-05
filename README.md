@@ -1,4 +1,4 @@
-# Hi, I'm Harsha D Ullikashi 👋
+# Hi, I'm Harsha D Ullikashi 
 **Data Engineer | BI Developer | Data Scientist**
 
 📍 Based in India (IST)  

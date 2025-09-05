@@ -14,7 +14,7 @@ Skilled in **Python, SQL, PySpark, AWS, Azure, GCP, Power BI, and Tableau**, I f
 ---
 
 ## 🛠️ Skills
-*(Insert the colorful skill badges here if you want)*
+
 
 ---
 

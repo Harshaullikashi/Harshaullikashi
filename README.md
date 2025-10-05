@@ -20,6 +20,10 @@ Skilled in **Python, SQL, PySpark, AWS, Azure, GCP, Power BI, and Tableau**, I f
 
 ## 🗂 Featured Projects
 
+### 🤖 [Customer Support Bot](https://github.com/Harshaullikashi/-Customer-Support-Bot)
+Developed an **AI-powered customer support chatbot** using **semantic search** and **NLP techniques** to provide automated responses from uploaded FAQs or documents.  
+Implemented **feedback-based learning**, **contextual fallback handling**, and **logging system** to improve accuracy and user experience.
+
 ### 🔐 [RBAC Project](https://github.com/Harshaullikashi/RBAC-Project)  
 Role-Based Access Control system project demonstrating **user roles, authentication, and authorization workflows**.
 
@@ -37,6 +41,7 @@ Designed **Snowflake schema** for restaurant data, optimized queries, and visual
 
 ### 🛍 [Capstone (Retail Forecast)](https://github.com/Harshaullikashi/Capstone)  
 Built a **forecasting model** for retail demand using time-series analysis in Jupyter notebooks.
+
 
 ---
 

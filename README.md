@@ -67,10 +67,32 @@ Comprehensive **MNIST digit classification** project comparing **classical ML al
 
 ---
 
-## 📊 GitHub Stats (All Projects)
-![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshaullikashi&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshaullikashi&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Harshaullikashi&theme=radical&hide_border=false)  
+## 📊 GitHub Stats & Progress
+
+### 🏆 Overall Statistics
+![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshaullikashi&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true)  
+
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshaullikashi&layout=compact&theme=radical&hide_border=false&langs_count=8)  
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Harshaullikashi&theme=radical&hide_border=false&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC)  
+
+### 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshaullikashi&theme=redical&hide_border=false&custom_title=Harsha's%20Contribution%20Graph)  
+
+### 🎯 Progress Overview
+- **Total Repositories:** 9+ Projects
+- **Languages:** Python, SQL, PySpark, JavaScript, HTML/CSS
+- **Specializations:** Data Engineering, Machine Learning, BI Development
+- **Recent Focus:** Sentiment Analysis, MNIST Classification, Deep Learning
+
+### 📊 Project Statistics
+- **Machine Learning Projects:** 3 (Sentiment Analysis, MNIST, Customer Support Bot)
+- **Data Engineering Projects:** 4 (Churn Analysis, Sales Dashboard, Restaurant Analysis, Capstone)
+- **Web Development Projects:** 2 (RBAC, Loan Prediction API)
+- **Average Project Stars:** Growing community engagement
+- **Code Quality:** Well-documented with professional READMEs
 
 ---
 

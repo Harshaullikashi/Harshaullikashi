@@ -42,6 +42,12 @@ Designed **Snowflake schema** for restaurant data, optimized queries, and visual
 ### 🛍 [Capstone (Retail Forecast)](https://github.com/Harshaullikashi/Capstone)  
 Built a **forecasting model** for retail demand using time-series analysis in Jupyter notebooks.
 
+### 🎭 [Sentiment Analysis](https://github.com/Harshaullikashi/sentiment-analysis)  
+Implemented **Perceptron, Average Perceptron, and Pegasos algorithms** for movie review sentiment classification. Achieved **80.2% test accuracy** with hyperparameter tuning, feature engineering experiments, and most explanatory word analysis using bag-of-words features.
+
+### 🔢 [MNIST Classification](https://github.com/Harshaullikashi/mnist-classical-ml-and-pytorch)  
+Comprehensive **MNIST digit classification** project comparing **classical ML algorithms** (SVM, Random Forest, KNN) with **PyTorch deep learning models** (CNN, MLP). Includes data preprocessing, model evaluation, and performance comparison across different approaches.
+
 
 ---
 

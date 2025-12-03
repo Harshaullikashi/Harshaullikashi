@@ -51,15 +51,6 @@ Comprehensive **MNIST digit classification** project comparing **classical ML al
 
 ---
 
-## 💼 Work Experience
-**Intellipaat, Bangalore — Data Science Intern (Jun 2024 – Jul 2025)**  
-- Built & optimized **ETL pipelines** (PySpark, SQL)  
-- Integrated APIs (REST/JSON/XML)  
-- Developed **Flask/FastAPI APIs** for real-time models  
-- Created **Power BI/Tableau dashboards** for KPIs & predictions  
-
----
-
 ## 📬 Contact Me
 📧 Email: [harshaullikashi2000@gmail.com](mailto:harshaullikashi2000@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/harsha-ullikashi](https://www.linkedin.com/in/harsha-ullikashi/)  
